@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  * This RSA implementation doesn't use OAEP, so is not secure 
  * enough to be implemented in real life (Duh).
- * @author Mazen
+ * @author Satsana
  */
 public class RSA {
 	private double n;			//modulus AKA max 	
